@@ -13,7 +13,7 @@
   - Lowercase
   - Digits
   - Symbols
-- **Excludes ambiguous characters** ('1', '1', 'O', '0', 'I')
+- **Excludes ambiguous characters** ('l', '1', 'O', '0', 'I')
 - **Save passwords to 'passwrods.txt'**
 - **Copy any password to clipboard** with one click
 - Clean, user-friendly interface
